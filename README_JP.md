@@ -46,7 +46,7 @@
 
 
 #### Windows
-WindowsではEspressif Flash Download Toolsが使えます([ダウンロード](https://www.espressif.com/sites/default/files/tools/flash_download_tools_v3.6.4.rar)) (先にEraseを実行してください)：
+WindowsではEspressif Flash Download Toolsが使えます([ダウンロード](https://www.espressif.com/sites/default/files/tools/flash_download_tools_v3.6.5_0.zip)) (先にEraseを実行してください)：
   ![image](docs/img/windows_esptool.png)
 
 
