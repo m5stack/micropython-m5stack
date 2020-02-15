@@ -48,7 +48,7 @@
 
 
 #### Windows
-Windows can use Espressif Flash Download Tools([Download](https://www.espressif.com/sites/default/files/tools/flash_download_tools_v3.6.4.rar)) (Erase first)：
+Windows can use Espressif Flash Download Tools([See Page](https://www.espressif.com/en/support/download/other-tools)) (Erase first)：
   ![image](docs/img/windows_esptool.png) 
 
 
